@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaquaesupersu16melauoft/operaquaesupersu16melauoft_0277.png"; bbox 0 0 2347 3000; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 872 1052 1256 1099">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 872 1052 1256 1099">
+     <span class='ocr_line' id='line_1_1' title="bbox 872 1052 1256 1099; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 872 1052 1256 1099; x_wconf 76' lang='lat' dir='ltr'><strong>LIBRI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 227 1209 1905 1274">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 227 1209 1905 1274">
+     <span class='ocr_line' id='line_1_2' title="bbox 227 1209 1905 1274; baseline 0.005 -10"><span class='ocrx_word' id='word_1_2' title='bbox 227 1209 859 1265; x_wconf 86' lang='lat' dir='ltr'><strong>PHILIPPI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 934 1212 1905 1274; x_wconf 76' lang='lat' dir='ltr'><strong>MELANTHONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 416 1381 1709 1421">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 416 1381 1709 1421">
+     <span class='ocr_line' id='line_1_3' title="bbox 416 1381 1709 1421; baseline 0.004 -9"><span class='ocrx_word' id='word_1_4' title='bbox 416 1382 471 1413; x_wconf 89' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 503 1382 698 1421; x_wconf 86' lang='lat' dir='ltr'>QUIBUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 731 1381 1050 1414; x_wconf 80' lang='lat' dir='ltr'>ENARRAVI&#39;I&#39;</span> <span class='ocrx_word' id='word_1_7' title='bbox 1084 1384 1369 1417; x_wconf 79' lang='lat' dir='ltr'>AUCTORES</span> <span class='ocrx_word' id='word_1_8' title='bbox 1404 1385 1709 1419; x_wconf 83' lang='lat' dir='ltr'><strong>CLASSICOS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
